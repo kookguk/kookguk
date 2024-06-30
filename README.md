@@ -5,13 +5,12 @@
 ## Tech Blog 
 <div style="display:flex; flex-direction:row;">
     <a href="https://zzarimongddang.tistory.com/">
-        <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
     </a>
     <a href="https://www.instagram.com/dataresting/">
-        <img src="https://img.shields.io/badge/
-        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="https://blog.naver.com/PostList.naver?blogId=rnrwnsgh0904&widgetTypeCall=true&noTrackingCode=true&directAccess=true">
     <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
     </a>
+   
