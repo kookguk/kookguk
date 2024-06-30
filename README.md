@@ -13,4 +13,7 @@
     <a href="https://blog.naver.com/PostList.naver?blogId=rnrwnsgh0904&widgetTypeCall=true&noTrackingCode=true&directAccess=true">
     <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
     </a>
-   
+    <a href="https://public.tableau.com/app/profile/.k00keyesm/vizzes">
+    <img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+    </a>
+
