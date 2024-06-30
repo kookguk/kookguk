@@ -7,7 +7,7 @@
 🧑🏻‍💻 I'm majoring in Business Administration and Applied Statistics.  
 ❤️‍🔥 I'm interested in Data Analysis, Science, Visualization.  
 
-# Experience
+## Experience
 🐘 BOAZ(빅데이터 연합 동아리) 22기 데이터 시각화  
 📊 BDA(빅데이터 학회) 8기 데이터 전처리(판다스), 데이터 전처리 적용반  
 📊 BDA(빅데이터 학회) 7기 파이썬 문법 응용반  
@@ -16,7 +16,7 @@
 📱 큐시즘(한국대학생IT경영학회) 28기 기획파트, 경영총괄팀원  
 📱 큐시즘(한국대학생IT경영학회) 27기 기획파트  
 
-## Tech Stack🔧 
+## Tech Stack
 <h3>Language</h3>
 <a href="#">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -97,7 +97,7 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a>
 
-## Tech Blog💻 
+## Tech Blog
 <div style="display:flex; flex-direction:row;">
     <a href="https://zzarimongddang.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
@@ -112,5 +112,5 @@
     <img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
     </a>
 
-# Contact
+## Contact
 📧 juno200174@gmail.com
