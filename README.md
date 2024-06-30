@@ -2,6 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=kookguk)](https://git.io/typing-svg)
 
+## About Me
+🏫 I'm currently studying at Chung-Ang University, in South Korea.  
+🧑🏻‍💻 I'm majoring in Business Administration and Applied Statistics.  
+❤️‍🔥 I'm interested in Data Analysis, Science, Visualization.  
+
+# Experience
+🐘 BOAZ(빅데이터 연합 동아리) 22기 데이터 시각화  
+📊 BDA(빅데이터 학회) 8기 데이터 전처리(판다스), 데이터 전처리 적용반  
+📊 BDA(빅데이터 학회) 7기 파이썬 문법 응용반  
+📊 BDA(빅데이터 학회) 6기 파이썬 문법 기초반  
+📈 TWBX 태블로 커뮤니티 5기  
+📱 큐시즘(한국대학생IT경영학회) 28기 기획파트, 경영총괄팀원  
+📱 큐시즘(한국대학생IT경영학회) 27기 기획파트  
+
 ## Tech Stack🔧 
 <h3>Language</h3>
 <a href="#">
@@ -97,3 +111,6 @@
     <a href="https://public.tableau.com/app/profile/.k00keyesm/vizzes">
     <img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
     </a>
+
+# Contact
+📧 juno200174@gmail.com
