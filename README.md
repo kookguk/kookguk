@@ -59,6 +59,9 @@
 <a href="#">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 </a>
+<a href="#">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+</a>
 
 <h3>Communication</h3>
 <a href="#">
