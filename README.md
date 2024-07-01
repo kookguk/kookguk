@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=300&section=header&text=capsule%20render&fontSize=90)
-
-<h1 align="center">kookguk</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=300&section=header&text=kookguk&fontSize=90)
 
 ## About Me
 🏫 I'm studying at Chung-Ang University, in South Korea.  
