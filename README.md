@@ -17,11 +17,8 @@
 
 ## Certificate
 ▶️ ADsP(데이터분석 준전문가)
-
 ▶️ SQLD(SQL 개발자)
-
 ▶️ 경영정보시각화능력
-
 ▶️ TOFEL IBT
 
 ## Tech Stack
