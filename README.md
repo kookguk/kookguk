@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <h1 align="center">kookguk</h1>
 
 ## About Me
-🏫 I'm currently studying at Chung-Ang University, in South Korea.  
+🏫 I'm studying at Chung-Ang University, in South Korea.  
 🧑🏻‍💻 I'm majoring in Business Administration and Applied Statistics.  
-❤️‍🔥 I'm interested in Data Analysis, Science, Visualization.  
+❤️‍🔥 I'm interested in Data Analysis, Data Science, Data Visualization.  
 
 ## Experience
 🐘 BOAZ(빅데이터 연합 동아리) 22기 데이터 시각화  
