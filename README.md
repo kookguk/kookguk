@@ -87,6 +87,8 @@
 <a href="#">
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
 </a>
+<a href="https://pyspark.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Pyspark-007D9C?style=flat-square&logo=apache-spark&logoColor=white" alt="Pyspark">
+</a>
 
 <h3>Communication</h3>
 <a href="#">
