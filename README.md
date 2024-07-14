@@ -21,7 +21,7 @@
 ▶️ 경영정보시각화능력  
 ▶️ TOFEL IBT
 
-## Tech Stack
+## Tech
 <h3>Language</h3>
 <a href="#">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -104,7 +104,7 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 </a>
 
-## Tech Blog
+## Blog
 <div style="display:flex; flex-direction:row;">
     <a href="https://zzarimongddang.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white">
