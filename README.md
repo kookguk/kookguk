@@ -9,16 +9,16 @@
 🐘 BOAZ(빅데이터 연합 동아리) 22기 데이터 시각화  
 🐻 BDA(빅데이터 학회) 8기 데이터 전처리(판다스), 데이터 전처리 적용반  
 🐻 BDA(빅데이터 학회) 7기 파이썬 문법 응용반  
-🐻 BDA(빅데이터 학회) 6기 파이썬 문법 기초반
-📈 TWBX 태블로 커뮤니티 5기
-📊 Salesforce Tableau 신병훈련소 수료
+🐻 BDA(빅데이터 학회) 6기 파이썬 문법 기초반  
+📈 TWBX 태블로 커뮤니티 5기  
+📊 Salesforce Tableau 신병훈련소 수료  
 📱 큐시즘(한국대학생IT경영학회) 28기 기획파트, 경영총괄팀원  
 📱 큐시즘(한국대학생IT경영학회) 27기 기획파트
 
 ## Certificate
-▶️ ADsP(데이터분석 준전문가)
-▶️ SQLD(SQL 개발자)
-▶️ 경영정보시각화능력
+▶️ ADsP(데이터분석 준전문가)  
+▶️ SQLD(SQL 개발자)  
+▶️ 경영정보시각화능력  
 ▶️ TOFEL IBT
 
 ## Tech Stack
@@ -121,6 +121,6 @@
 </div>
 
 ## Contact
-📧 junho200174@gmail.com
-📧 rnrwnsgh0904@naver.com
+📧 junho200174@gmail.com  
+📧 rnrwnsgh0904@naver.com  
 📧 rnrwnsgh0904@cau.ac.kr
