@@ -6,13 +6,13 @@
 ❤️‍🔥 I'm interested in Data Analysis, Data Science, Data Visualization.  
 
 ## Experience
-🐘 BOAZ(빅데이터 연합 동아리) 22기 데이터 시각화
-🐻 BDA(빅데이터 학회) 8기 머신러닝반
-🐻 BDA(빅데이터 학회) 7기 데이터 전처리반
-🐻 BDA(빅데이터 학회) 6기 파이썬 문법반
-📈 TWBX Tableau 커뮤니티 5기  
-📊 Salesforce Tableau 신병훈련소  
-📱 큐시즘(한국대학생IT경영학회) 28기 기획팀, 경영총괄팀  
+🐘 BOAZ(빅데이터 연합 동아리) 22기 데이터 시각화  
+🐻 BDA(빅데이터 학회) 8기 머신러닝반  
+🐻 BDA(빅데이터 학회) 7기 데이터 전처리반  
+🐻 BDA(빅데이터 학회) 6기 파이썬 문법반  
+📈 TWBX Tableau 커뮤니티 5기    
+📊 Salesforce Tableau 신병훈련소      
+📱 큐시즘(한국대학생IT경영학회) 28기 기획팀, 경영총괄팀    
 📱 큐시즘(한국대학생IT경영학회) 27기 기획팀
 
 ## Certificate
