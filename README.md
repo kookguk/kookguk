@@ -21,16 +21,6 @@
 ▶️ 경영정보시각화능력  
 ▶️ TOFEL IBT
 
-<style>
-    a {
-        text-decoration: none; /* 링크의 밑줄 제거 */
-    }
-    img {
-        border: none; /* 이미지 테두리 제거 */
-        vertical-align: middle; /* 이미지가 텍스트 줄 중간에 위치하도록 조정 */
-    }
-</style>
-
 ## Tech
 <h3>Language</h3>
 <a href="#">
