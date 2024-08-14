@@ -37,7 +37,7 @@
 </a>
 <a href="#">
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
-</a>
+</a>  
 
 
 > **Tool**  
@@ -64,7 +64,7 @@
 </a>
 <a href="#">
     <img src="https://img.shields.io/badge/Redash-FF4C4C?style=flat-square&logo=redash&logoColor=white">
-</a>
+</a>  
 
 
 > **Stack**  
@@ -94,7 +94,7 @@
 </a>
 <a href="https://pyspark.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/Pyspark-007D9C?style=flat-square&logo=apache-spark&logoColor=white" alt="Pyspark">
-</a>
+</a>  
 
 
 > **Communication**  
