@@ -28,7 +28,7 @@
 + TOFEL IBT
 
 ## **Tech**
-<h3>Language</h3>
+> **Language**  
 <a href="#">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </a>
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
 </a>
 
-<h3>Tool</h3>
+> **Tool**  
 <a href="#">
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
 </a>
@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/Redash-FF4C4C?style=flat-square&logo=redash&logoColor=white">
 </a>
 
-<h3>Stack</h3>
+> **Stack**  
 <a href="#">
     <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 </a>
@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/badge/Pyspark-007D9C?style=flat-square&logo=apache-spark&logoColor=white" alt="Pyspark">
 </a>
 
-<h3>Communication</h3>
+> **Communication**  
 <a href="#">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </a>
@@ -111,7 +111,7 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 </a>
 
-## Blog
+## **Blog**
 <div style="display:flex; flex-direction:row;">
     <a href="https://zzarimongddang.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white">
@@ -127,7 +127,7 @@
     </a>
 </div>
 
-## Contact
-📧 junho200174@gmail.com  
-📧 rnrwnsgh0904@naver.com  
-📧 rnrwnsgh0904@cau.ac.kr
+## **Contact**
++ junho200174@gmail.com  
++ rnrwnsgh0904@naver.com  
++ rnrwnsgh0904@cau.ac.kr
