@@ -3,7 +3,7 @@
 ## About Me
 🏫 I'm studying at Chung-Ang University, in South Korea.  
 🧑🏻‍💻 I'm majoring in Business Administration and Applied Statistics.  
-❤️‍🔥 I'm interested in Data Analysis, Data Science, Data Visualization.  
+❤️‍🔥 I'm interested in Data Analysis, Data Science, and Data Visualization.  
 
 ## Experience
 🐘 BOAZ(빅데이터 연합 동아리) 22기 데이터 시각화  
