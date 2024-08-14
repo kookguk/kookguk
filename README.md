@@ -39,7 +39,6 @@
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
 </a>  
 
-
 > **Tool**  
 <a href="#">
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
@@ -65,7 +64,6 @@
 <a href="#">
     <img src="https://img.shields.io/badge/Redash-FF4C4C?style=flat-square&logo=redash&logoColor=white">
 </a>  
-
 
 > **Stack**  
 <a href="#">
@@ -95,7 +93,6 @@
 <a href="https://pyspark.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/Pyspark-007D9C?style=flat-square&logo=apache-spark&logoColor=white" alt="Pyspark">
 </a>  
-
 
 > **Communication**  
 <a href="#">
