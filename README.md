@@ -1,27 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=300&section=header&text=kookguk&fontSize=90)
 
-## About Me
-🏫 I'm studying at Chung-Ang University, in South Korea.  
-🧑🏻‍💻 I'm majoring in Business Administration and Applied Statistics.  
-❤️‍🔥 I'm interested in Data Analysis, Data Science, and Data Visualization.  
+## **About Me**
 
-## Experience
-🐘 BOAZ(빅데이터 연합 동아리) 22기 데이터 시각화  
-🐻 BDA(빅데이터 학회) 8기 머신러닝반  
-🐻 BDA(빅데이터 학회) 7기 데이터 전처리반  
-🐻 BDA(빅데이터 학회) 6기 파이썬 문법반  
-📈 TWBX Tableau 커뮤니티 5기    
-📊 Salesforce Tableau 신병훈련소      
-📱 큐시즘(한국대학생IT경영학회) 28기 기획팀, 경영총괄팀    
-📱 큐시즘(한국대학생IT경영학회) 27기 기획팀
+> **Major**  
+`2020.03 ~ ` 중앙대학교 경영학부 / 응용통계학과 복수전공
 
-## Certificate
+> **Interest**  
+Data Analysis, Data Science, and Data Visualization. 
+
+> **Career**
+`2024.09 ~ 2024.12` 한국리서치 마케팅조사부 데이터분석 인턴
+
+> **Experience**
+`2024.01 ~ 2025.01`🐘 BOAZ(빅데이터 연합 동아리) 22기 데이터 시각화   
+`2024.03 ~ 2024.08`🐻 BDA(빅데이터 학회) 8기 머신러닝반  
+`2023.09 ~ 2024.02`🐻 BDA(빅데이터 학회) 7기 데이터 전처리반  
+`2023.03 ~ 2023.08`🐻 BDA(빅데이터 학회) 6기 파이썬 문법반  
+`2023.09 ~ 2023.10`📈 TWBX Tableau 커뮤니티 5기    
+`2024.01 ~ 2024.02`📊 Salesforce Tableau 신병훈련소      
+`2023.09 ~ 2023.12`📱 큐시즘(한국대학생IT경영학회) 28기 기획팀, 경영총괄팀    
+`2023.03 ~ 2023.06`📱 큐시즘(한국대학생IT경영학회) 27기 기획팀 
+
+## **Certificate**
 ▶️ ADsP(데이터분석 준전문가)  
 ▶️ SQLD(SQL 개발자)  
 ▶️ 경영정보시각화능력  
 ▶️ TOFEL IBT
 
-## Tech
+## **Tech**
 <h3>Language</h3>
 <a href="#">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
