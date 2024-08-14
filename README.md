@@ -65,7 +65,9 @@
     <img src="https://img.shields.io/badge/Redash-FF4C4C?style=flat-square&logo=redash&logoColor=white">
 </a>  
 
-> **Stack**  
+<br>
+
+> **Stack**
 <a href="#">
     <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 </a>
