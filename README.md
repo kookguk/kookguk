@@ -3,7 +3,7 @@
 ## **About Me**
 
 > **Major**  
-+ `2020.03 ~ ` 중앙대학교 경영학부 / 응용통계학과 복수전공
++ `2020.03 ~ 2027.02` 중앙대학교 경영학부 / 응용통계학과 복수전공
 
 > **Interest**  
 + Data Analysis, Data Science, and Data Visualization. 
