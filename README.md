@@ -7,7 +7,8 @@
 + `2025.01 ~ 2025.05` California State University, Fullerton Business Administration
 
 > **Interest**  
-+ Data Analysis, Data Science, and Data Visualization. 
++ Data Analysis, Data Science, and Data Visualization.
++ Finance and Automobile
 
 > **Career**
 + `2024.09 ~ 2024.12` 한국리서치 이노베이션본부 데이터분석 인턴
