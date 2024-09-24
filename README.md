@@ -3,8 +3,8 @@
 ## **About Me**
 
 > **Major**  
-+ `2020.03 ~ 2027.02` 중앙대학교 경영학부 / 응용통계학과 복수전공
-+ `2025.01 ~ 2025.06` California State University, Fullerton Business Administration
++ `2020.03 ~ 2027.02` 중앙대학교 - 경영학부 / 응용통계학과 복수전공
++ `2025.01 ~ 2025.06` California State University, Fullerton - Business Administration
 
 > **Interest**  
 + Data Analysis, Data Science, and Data Visualization.
