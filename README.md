@@ -31,7 +31,7 @@
 ## **Tech**
 > **Language**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/SQL-%230074A3?style=flat-square&logo=database&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/SQL-%230074A3?style=flat-square&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
 
 > **Tool**  
 
