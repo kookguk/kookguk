@@ -31,15 +31,15 @@
 ## **Tech**
 > **Language**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=microsoft-sql-server&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
 
 > **Tool**  
 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=black"> <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"> 
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=jetbrains&logoColor=black"> <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"> 
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/DBeaver-3B4C56?style=flat-square&logo=dbeaver&logoColor=white"> 
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/Redash-FF4C4C?style=flat-square&logo=redash&logoColor=white"> <img src="https://img.shields.io/badge/Apache_Superset-1F4662?style=flat-square&logo=apache-superset&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"> <img src="https://img.shields.io/badge/Redash-FF4C4C?style=flat-square&logo=redash&logoColor=white"> <img src="https://img.shields.io/badge/Apache_Superset-1F4662?style=flat-square&logo=apache&logoColor=white">
 
 > **Stack**
 
@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 
 ## **Blog**
-<a href="https://zzarimongddang.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a> <a href="https://www.instagram.com/dataresting/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a> <a href="https://blog.naver.com/PostList.naver?blogId=rnrwnsgh0904&widgetTypeCall=true&noTrackingCode=true&directAccess=true"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"></a> <a href="https://public.tableau.com/app/profile/.k00keyesm/vizzes"><img src="https://img.shields.io/badge/Tableau_Public-E97627?style=flat-square&logo=Tableau&logoColor=white"></a>
+<a href="https://zzarimongddang.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"></a> <a href="https://www.instagram.com/dataresting/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a> <a href="https://blog.naver.com/PostList.naver?blogId=rnrwnsgh0904&widgetTypeCall=true&noTrackingCode=true&directAccess=true"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=naver&logoColor=white"></a> <a href="https://public.tableau.com/app/profile/.k00keyesm/vizzes"><img src="https://img.shields.io/badge/Tableau_Public-E97627?style=flat-square&logo=tableau&logoColor=white"></a>
 
 ## **Contact**
 + junho200174@gmail.com  
