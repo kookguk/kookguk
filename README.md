@@ -7,7 +7,7 @@
 + `2025.01 ~ 2025.06` California State University, Fullerton - Business Administration
 
 > **Interest**  
-+ Data Analysis, Data Science, and Data Visualization.
++ Data Analysis, Data Science, and Data Visualization
 + Finance and Automobile
 
 > **Career**
