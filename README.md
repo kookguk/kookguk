@@ -7,7 +7,7 @@
 + `2025.01 ~ 2025.06` California State University, Fullerton - Business / Data Science
 
 > **Interest**  
-+ Everything related to Data Science
++ Data Science
 + Finance and Automobile
 
 > **Career**
