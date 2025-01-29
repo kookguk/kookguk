@@ -7,8 +7,8 @@
 + `2025.01 ~ 2025.06` California State University, Fullerton - Business / Data Science
 
 > **Interest**  
-+ Data Science
-+ Finance and Automobile
++ Field - Data Science
++ Domain - Finance and Automobile
 
 > **Career**
 + `2024.09 ~ 2024.12` 한국리서치 이노베이션본부 데이터 분석 인턴
