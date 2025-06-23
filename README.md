@@ -4,15 +4,16 @@
 
 > **Major**  
 + `2020.03 ~ 2027.02` 중앙대학교 - 경영학부 / 응용통계학과 복수전공
-+ `2025.01 ~ 2025.06` California State University, Fullerton - Business / Data Science
++ `2025.01 ~ 2025.05` California State University, Fullerton - Business / Data Science
 
 > **Interest**  
 + Field - Data Science
 + Domain - Finance and Automobile
 
 > **Career**
-+ `2024.09 ~ 2024.12` 한국리서치 이노베이션본부 데이터 분석 인턴
-+ `2024.10` 삼성전자 CX·MDE센터 파견 인턴
++ `2025.06 ~ 2026.02` 토스뱅크 ML Data Assistant
++ `2024.09 ~ 2024.12` 한국리서치 Data Analyst Intern
++ `2024.10` 삼성전자 CX·MDE센터 파견 Data Research Intern
 
 > **Experience**  
 + `2024.01 ~ 2025.01` 🐘 BOAZ(빅데이터 연합 동아리) 22기 데이터 시각화
