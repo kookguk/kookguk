@@ -11,7 +11,7 @@
 + Domain - Finance and Automobile
 
 > **Career**
-+ `2025.06 ~ 2026.02` 토스뱅크 ML Service팀 ML Data Assistant
++ `2025.06 ~ 2026.02` 토스뱅크 PF ML Service팀 ML Data Assistant
 + `2024.09 ~ 2024.12` 한국리서치 이노베이션사업본부 Data Analyst Intern
 + `2024.10` 삼성전자 CX·MDE센터 파견 Data Research Intern
 
