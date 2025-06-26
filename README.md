@@ -4,15 +4,15 @@
 
 > **Major**  
 + `2020.03 ~ 2027.02` 중앙대학교 - 경영학부 / 응용통계학과 복수전공
-+ `2025.01 ~ 2025.05` California State University, Fullerton - Business / Data Science
++ `2025.01 ~ 2025.05` California State University, Fullerton - Business / Data Science, Exchange student
 
 > **Interest**  
 + Field - Data Science
 + Domain - Finance and Automobile
 
 > **Career**
-+ `2025.06 ~ 2026.02` 토스뱅크 ML Data Assistant
-+ `2024.09 ~ 2024.12` 한국리서치 Data Analyst Intern
++ `2025.06 ~ 2026.02` 토스뱅크 ML Service팀 ML Data Assistant
++ `2024.09 ~ 2024.12` 한국리서치 이노베이션사업본부 Data Analyst Intern
 + `2024.10` 삼성전자 CX·MDE센터 파견 Data Research Intern
 
 > **Experience**  
@@ -27,7 +27,8 @@
 ## **Certificate**  
 + ADsP(데이터분석 준전문가)  
 + SQLD(SQL 개발자)  
-+ TOFEL IBT
++ TOFEL IBT 94점
++ OPIc IH
 
 ## **Tech**
 > **Language**
