@@ -27,7 +27,7 @@
 ## **Certificate**  
 + ADsP(데이터분석 준전문가)  
 + SQLD(SQL 개발자)  
-+ TOFEL IBT 94점
++ TOFEL IBT 94
 + OPIc IH
 
 ## **Tech**
