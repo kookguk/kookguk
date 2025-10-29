@@ -8,7 +8,7 @@
 
 > **Interest**  
 + Field - Data Science
-+ Domain - Finance and Automobile
++ Domain - Finance
 
 > **Career**
 + `2025.06 ~ 2026.02` 토스뱅크 PF ML Service팀 ML Data Assistant
