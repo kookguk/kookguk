@@ -30,6 +30,7 @@
 + SQLD(SQL 개발자)  
 + TOFEL IBT 94
 + OPIc IH
++ 투자자산운용사
 
 ## **Tech**
 > **Language**
