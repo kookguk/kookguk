@@ -3,8 +3,8 @@
 ## **About Me**
 
 > **Major**  
-+ `2020.03 ~ 2027.02` 중앙대학교 - 경영학부 / 응용통계학과 복수전공
-+ `2025.01 ~ 2025.05` California State University, Fullerton - Business Administration / Computer Science, Exchange student
++ `2020.03 ~ 2027.02` 중앙대학교 - 경영학부, 응용통계학과 복수전공
++ `2025.01 ~ 2025.05` California State University, Fullerton - Business Administration, Computer Science Double Major / Exchange student
 
 > **Interest**  
 + Field - Data Science
@@ -25,6 +25,7 @@
 > **Prize**
 + 🏆 2025년 유안타증권 캠퍼스 Yipp계좌 아이디어 공모전 **대상**
 + 🏆 2024년 금산군 데이터 기반 행정 시각화 아이디어 공모전 **최우수상**
++ 🏆 2020년 중앙대학교 경영학부 공모전 **동상**
 
 > **Certificate**  
 + ADsP(데이터분석 준전문가)  
